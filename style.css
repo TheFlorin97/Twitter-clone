@@ -731,6 +731,11 @@ margin-bottom: 2rem;
     visibility: hidden;
 }
 
+ .modal-wrapper-display {
+    opacity: 1;
+    visibility: visible;
+ }
+
 .modal{
     width: 60rem;
     background-color: #fff;
