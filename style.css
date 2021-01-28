@@ -1028,6 +1028,23 @@ margin-bottom: 2rem;
     left: 2.5rem;
     background-color: #117abb;
 }
+
+.dark-1{
+    background-color: #1c2938;
+}
+
+.dark-2{
+    background-color: #10171e !important;
+
+}
+
+.light{
+    color: #fff;
+}
+
+.border-color{
+    border-color: #444 !important;
+}
 /* end of dark mode */
 
 /* end of sidebar */
